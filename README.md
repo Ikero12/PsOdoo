@@ -94,7 +94,10 @@ volumes:
 >Como último definimos el volumen que va a usar Dockre y todos sus componentes.
 ---
 
-#Conectar el PyCharm con la base de datos:
+# Conectar el PyCharm con la base de datos:
 
 ![Conexion](https://github.com/Ikero12/Imagenes/blob/main/Captura%20desde%202023-03-03%2012-03-55.png)
+
+
+
   
